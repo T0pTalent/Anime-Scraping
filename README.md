@@ -1,4 +1,3 @@
-# This Repo is deprecated and doesn't work anymore. I don't plan on updating it anymore. Reasons are simple :-
 **1.This was created as a side project and didn't have much plans with it but still thank you for giving this project support** <br>
 **2. The Reasons for shutting it down is simple, It's Illegal to pirate even if you are scraping from another website like gogoanime** <br>
 **3. This project was supposed to be a personal website to watch anime for me and my friends thats why it had literally no ads** <br>
